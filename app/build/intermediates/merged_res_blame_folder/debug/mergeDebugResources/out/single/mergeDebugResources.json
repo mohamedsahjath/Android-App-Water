@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_back_circle.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_back_circle.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_water1.png.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/water1.png"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_location.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_check_circle.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_water_splash.png.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/water_splash.png"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_profile.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_facebook.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_water_hand.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_water_hand.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_google.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_aquacare_logo.png.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/aquacare_logo.png"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_add_photo.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_add_photo.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.myapplication1.app-main-58:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.myapplication1.app-debug-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication1.app-main-58:/drawable/ic_launcher_background.xml"
+    }
+]
