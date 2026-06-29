@@ -72,7 +72,7 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
 
-    implementation(platform("com.google.firebase:firebase-bom:34.14.0"))
+    implementation("com.google.firebase:firebase-bom:34.15.0")
     implementation("com.google.firebase:firebase-analytics")
     implementation("com.google.firebase:firebase-database")
 }
